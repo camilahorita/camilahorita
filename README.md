@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Camila 👋
 
-<!--
-**camilahorita/camilahorita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Software Engineer. Currently I'm studying Interactive Applications at the Universidad Politécnica de Valencia
 
-Here are some ideas to get you started:
+#### Tools 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌎 Main language : JavaScript
+- 📡 Back-end with Node.js  
+
+...
+
+
+#### 💬 Find me elsewhere
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camila-horita/)](https://www.linkedin.com/in/camila-horita/) 
+[![Gmail Badge](https://img.shields.io/badge/-camilayhorita@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigorgtic@gmail.com)](mailto:camilayhorita@gmail.com)
