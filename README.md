@@ -1,13 +1,17 @@
 ### Hi there, I'm Camila 👋
 
-I’m a Software Engineer. Currently I'm studying Interactive Applications at the Universidad Politécnica de Valencia
+I’m a Software Engineer. 
+Currently I'm studying Interactive Applications at the Universidad Politécnica de Valencia.
+
+You can find my portfolio here: https://camilahorita.github.io/portfolio/
+
 
 #### Tools 
 
 - 🌎 Main language : JavaScript
-- 📡 Back-end with Node.js  
-
-...
+- 📡 Back-end:  Node.js  
+- 🗂 Version Control: Git and Github
+- 🖌 Layout Design: Figma
 
 
 #### 💬 Find me elsewhere
