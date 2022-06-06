@@ -6,7 +6,7 @@ Currently I'm studying Interactive Applications at the Universidad Politécnica 
 You can find my portfolio here: https://camilahorita.github.io/portfolio/
 
 
-#### Tools 
+#### 🛠 Tools 
 
 - 🌎 Main language : JavaScript
 - 📡 Back-end:  Node.js  
